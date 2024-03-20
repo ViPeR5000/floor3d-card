@@ -32,7 +32,7 @@
     "custom-card-helpers": "^1.7.2",
     "home-assistant-js-websocket": "^5.11.1",
     "lit": "^2.0.0",
-    "three": "^0.130.1",
+    "three": "^0.161.0",
     "three-spritetext": "^1.6.4"
   },
   "devDependencies": {
