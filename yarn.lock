@@ -585,6 +585,14 @@
     lit "^2.0.0"
     tslib "^2.0.1"
 
+"@material/mwc-icon@^0.27.0":
+  version "0.27.0"
+  resolved "https://registry.yarnpkg.com/@material/mwc-icon/-/mwc-icon-0.27.0.tgz#f25ecdd7fe54d810d7d655ba05251169f78b84fd"
+  integrity sha512-Sul44I37M9Ewynn0A9DjkEBrmll2VtNbth6Pxj7I1A/EAwEfaCrPvryyGqfIu1T2hTsRcaojzQx6QjF+B5QW9A==
+  dependencies:
+    lit "^2.0.0"
+    tslib "^2.0.1"
+
 "@material/mwc-line-ripple@^0.25.3":
   version "0.25.3"
   resolved "https://registry.yarnpkg.com/@material/mwc-line-ripple/-/mwc-line-ripple-0.25.3.tgz#c5609d894c64ae80cbc37f657d0014e58fda1811"
